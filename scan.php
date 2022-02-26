@@ -4,8 +4,9 @@ include_once "whois.php";
 
 $ipsets = json_decode($json, true);
 
-function addInfo($ip, $country, $netname, $abusePhone, $abuseMail){
-    file_put_contents("ip_country_info.csv","{$ip},{$country},{$netname},{$abusePhone},{$abuseMail}\r\n", FILE_APPEND);
+function addInfo($ip, $country, $netname, $abusePhone, $abuseMail, $address, $orgPhone){
+    file_put_contents("ip_country_info.csv","{$ip},{$country},{$netname},{$abusePhone},{$abuseMail},{$address},{$orgPhone}\r\n", FILE_APPEND);
+    echo "{$ip},{$country},{$netname},{$abusePhone},{$abuseMail},{$address},{$orgPhone}\r\n";
 }
 
 function ipExists($ip)
@@ -40,15 +41,24 @@ foreach($ipsets["files"] as $ip_set){
                     $info = LookupIP($record[1]);
                     $country = getCountry($info);
                     if (trim($country[0]) !== 'RU') {
+
+                        $orgPhone = getOrgPhone($info);
+                        $orgAddress = getAddressInfo($info);
+
                         $abuseInfo = getAbuseInfo($info);
                         $netName = getNetName($info);
-                        if (!empty($abuseInfo)) {
-                            addInfo($record[1], $country[0], $netName[0], $abuseInfo["AbusePhone"][0], $abuseInfo["AbuseMail"][0]);
-                        } else {
-                            addInfo($record[1], $country[0], $netName[0], "n/a", "n/a");
-                        }
+
+                        addInfo(
+                            $record[1],
+                            $country,
+                            $netName,
+                            $abuseInfo["AbusePhone"],
+                            $abuseInfo["AbuseMail"],
+                            $orgAddress,
+                            $orgPhone
+                        );
                     }
-                    sleep(rand(1,3));
+                    sleep(rand(1,4));
                 }
             }
             catch(\Exception $err)
@@ -58,28 +68,47 @@ foreach($ipsets["files"] as $ip_set){
         }
     }
 }
-function getNetName($info)
+function getOrgPhone($info)
 {
-    if(preg_match_all("#netname:.*?(.*)#", $info, $matches)){
-        return $matches[1];
+    if(preg_match_all("#phone:.*?(.*)#", $info, $matches)){
+        return join("|", array_map("trim", $matches[1]));
     }
     return "";
+}
+
+function getNetName($info)
+{
+    if(preg_match_all("#org-name:.*?(.*)#", $info, $matches)){
+        return join("|", array_map("trim", $matches[1]));
+    }
+    return "";
+}
+function getAddressInfo($info)
+{
+    if(preg_match_all("#address:.*?(.*)#", $info, $matches)){
+        return join("|", array_map("trim", $matches[1]));
+    }
+    return "";
+
 }
 function getCountry($info)
 {
     if(preg_match_all("#country:.*?([A-Z][A-Z])#", $info, $matches)){
-        return $matches[1];
+        return join("|", array_map("trim", $matches[1]));
     }
     return "";
 }
 function getAbuseInfo($info)
 {
-    $result = [];
+    $result = [
+        "AbusePhone" => "n/a",
+        "OrgAbuseEmail" => "n/a"
+    ];
     if(preg_match_all("#OrgAbusePhone:.*?(.*)#", $info, $matches)){
-        $result["AbusePhone"] = $matches[1];
+        $result["AbusePhone"] = current($matches[1]);
     }
     if(preg_match_all("#OrgAbuseEmail:.*?(.*)#", $info, $matches)){
-        $result["AbuseMail"] = $matches[1];
+        $result["AbuseMail"] = current($matches[1]);
     }
     return $result;
 }
