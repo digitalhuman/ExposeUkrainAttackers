@@ -1,254 +1,36 @@
-31.19.53.114,DE,        KABEL-DEUTSCHLAND-CUSTOMER-SERVICES-25,  +31205354444,  abuse@ripe.net
-194.61.233.41,UA,        UA-VIKHOST-20210125,  +31205354444,  abuse@ripe.net
-59.102.186.33,TW,        TBCOM-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-45.83.220.191,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-116.48.6.22,HK,        NETVIGATOR,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-45.135.167.90,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-194.61.233.62,UA,        UA-VIKHOST-20210125,  +31205354444,  abuse@ripe.net
-220.129.139.182,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-93.78.227.241,UA,        VOLIA-POLTAVA,  +31205354444,  abuse@ripe.net
-45.82.153.143,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-156.96.47.35,AU,        ERX-NETBLOCK,  +1-818-908-5829,  keith@fastlink.net
-194.61.233.64,UA,        UA-VIKHOST-20210125,  +31205354444,  abuse@ripe.net
-194.61.233.78,UA,        UA-VIKHOST-20210125,  +31205354444,  abuse@ripe.net
-45.135.167.61,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-201.219.103.184,AR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-190.206.191.41,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-125.165.106.195,ID,        TLKM_D1_BB_SPEEDY_BTM,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-156.196.39.62,AU,        ERX-NETBLOCK,  +230 4666616,  abusepoc@afrinic.net
-179.80.191.221,BR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-134.255.148.151,AU,        ERX-NETBLOCK,  +31205354444,  abuse@ripe.net
-92.223.103.162,LU,        LU-GCORELABS-20071017,  +31205354444,  abuse@ripe.net
-185.232.52.58,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-1.171.52.214,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-185.232.52.61,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-190.195.242.175,AR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-171.25.248.184,AU,        ERX-NETBLOCK,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-27.125.152.161,SG,        STARHUBINTERNET-SG,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-125.131.2.48,KR,        KORNET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-182.241.22.226,CN,        CHINANET-YN,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-116.53.131.2,CN,        CHINANET-YN,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-91.173.16.152,FR,        FR-NONE-20060825,  +31205354444,  abuse@ripe.net
-45.135.167.197,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-45.135.167.220,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-173.93.108.96,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-877-777-2263,  abuse@charter.net
-36.69.111.152,ID,        TLKM_BB_SERVICE_36_69_DIVRE1-2,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-194.61.233.137,UA,        UA-VIKHOST-20210125,  +31205354444,  abuse@ripe.net
-46.139.233.68,HU,        MT-BROADBAND-DYNAMIC-KTV,  +31205354444,  abuse@ripe.net
-172.111.174.34,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-217-651-4225,  admin@pointtoserver.com
-78.187.95.224,,        TurkTelekom,  +31205354444,  abuse@ripe.net
-78.13.246.240,IT,        TISCALINET,  +31205354444,  abuse@ripe.net
-36.235.174.97,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-45.128.199.170,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-58.122.6.83,KR,        broadNnet,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-179.167.135.167,BR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-1.247.0.238,KR,        broadNnet,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-123.241.134.221,TW,        TBCOM-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-77.123.100.47,UA,        VOLIA-DNEPROPETROVSK,  +31205354444,  abuse@ripe.net
-20.114.169.166,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-425-882-8080,  abuse@microsoft.com
-93.78.20.184,UA,        VOLIA-DNEPROPETROVSK,  +31205354444,  abuse@ripe.net
-187.94.189.20,BR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-45.159.208.72,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-118.122.62.35,CN,        CHINANET-SC,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-222.129.32.66,CN,        UNICOM-BJ,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-120.196.56.20,CN,        CMNET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-180.175.229.15,CN,        CHINANET-SH,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-102.135.142.20,ZA,        SessionTelecoms,  +230 4666616,  abusepoc@afrinic.net
-139.206.55.242,CN,        CHINANET-SC,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-118.122.103.212,CN,        CHINANET-SC,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-92.223.103.179,LU,        LU-GCORELABS-20071017,  +31205354444,  abuse@ripe.net
-60.161.189.14,CN,        CHINANET-YN,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-93.147.177.84,IT,        VODAFONE-IT-63,  +31205354444,  abuse@ripe.net
-59.39.180.172,CN,        CHINANET-GD,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-46.150.77.66,UA,        TELESVIT-NET1,  +31205354444,  abuse@ripe.net
-81.138.39.164,GB,        BTADSL-0000000000089339,  +31205354444,  abuse@ripe.net
-183.14.135.158,CN,        CHINANET-GD,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-46.70.205.147,AM,        VEON-AM-ADSL-NET,  +31205354444,  abuse@ripe.net
-37.212.29.153,BY,        BYFLY-VITEBSK-DYNAMIC,  +31205354444,  abuse@ripe.net
-82.80.164.133,IL,        IL-BEZEQ-INTERNATIONAL-20030512,  +31205354444,  abuse@ripe.net
-45.142.122.76,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-24.97.148.234,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-45.142.122.207,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-185.213.155.177,DE,        NET-31173-185-213-155,  +31205354444,  abuse@ripe.net
-116.88.216.160,SG,        SGCABLEVISION-SG,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-189.206.22.187,MX,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-202.131.65.227,HK,        HKBNES-HK,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-190.206.244.70,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-124.31.48.7,CN,        CHINANET-XZ,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-80.229.86.146,GB,        PLUSNET-DIAL-ADSL,  +31205354444,  abuse@ripe.net
-183.89.78.52,TH,        TTBP-TH,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-5.206.239.197,AL,        TelKos-Gjilan,  +31205354444,  abuse@ripe.net
-91.225.140.144,UA,        UNET-NET,  +31205354444,  abuse@ripe.net
-114.99.165.252,CN,        CHINANET-AH,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-95.125.174.122,ES,        TME,  +31205354444,  abuse@ripe.net
-178.4.109.160,DE,        VFDE-DSL-NET20,  +31205354444,  abuse@ripe.net
-45.161.5.37,BR,        IANA-NETBLOCK-45,  +598-2604-2222,  abuse@lacnic.net
-1.164.220.47,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-117.91.50.44,CN,        CHINANET-JS,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-194.24.245.227,PL,        TELEWIZJA-KABLOWA-KOLOBRZEG,  +31205354444,  abuse@ripe.net
-183.196.210.110,CN,        CMNET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-59.41.146.98,CN,        CHINANET-GD,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-20.52.0.106,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-425-882-8080,  abuse@microsoft.com
-59.42.60.126,CN,        CHINANET-GD,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-118.249.53.26,CN,        CHINANET-HN,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-95.211.175.153,NL,        LEASEWEB,  +31205354444,  abuse@ripe.net
-194.33.40.81,MD,        amplica-2018-07-25,  +31205354444,  abuse@ripe.net
-44.192.77.17,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-54.226.69.122,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-70.92.246.89,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-877-777-2263,  abuse@charter.net
-54.91.81.48,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-52.87.200.25,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-54.159.33.230,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-35.174.8.120,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-100.26.54.1,AU,        IANA-BLOCK,n/a,n/a
-107.22.155.153,AU,        IANA-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-44.202.202.245,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-3.85.96.147,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-3.231.105.191,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-3.238.129.76,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-3.88.104.1,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-34.207.200.39,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-18.206.96.252,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-3.236.23.185,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-3.88.50.52,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-160.20.147.63,AU,        ERX-NETBLOCK,  +31205354444,  abuse@ripe.net
-140.82.52.35,AU,        ERX-NETBLOCK,n/a,n/a
-117.179.77.109,CN,        CMNET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-44.201.254.56,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-34.229.139.87,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-54.164.168.12,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-122.171.125.4,IN,        ABTS-KK-DSL-122896-blr,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-220.172.206.2,CN,        CHINANET-GZ,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-77.247.126.247,US,        CLOUVIDER-HB-CLIENT-4104,  +31205354444,  abuse@ripe.net
-44.202.69.64,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-52.90.12.175,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-3.238.153.156,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-44.200.34.173,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-3.87.8.122,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-194.33.40.81,MD,        amplica-2018-07-25,  +31205354444,  abuse@ripe.net
-95.211.175.153,NL,        LEASEWEB,  +31205354444,  abuse@ripe.net
-59.42.60.126,CN,        CHINANET-GD,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-186.91.202.113,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-117.91.50.44,CN,        CHINANET-JS,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-109.182.42.206,SI,        SIOL-NET,  +31205354444,  abuse@ripe.net
-222.139.108.230,CN,        UNICOM-HA,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-82.117.228.138,UA,        UA-VELTON-20090519,  +31205354444,  abuse@ripe.net
-95.125.174.122,ES,        TME,  +31205354444,  abuse@ripe.net
-123.169.34.26,CN,        CHINANET-SD,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-114.99.165.252,CN,        CHINANET-AH,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-114.104.187.63,CN,        CHINANET-AH,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-189.206.22.187,MX,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-124.31.48.7,CN,        CHINANET-XZ,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-190.78.180.120,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-60.161.189.14,CN,        CHINANET-YN,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-222.212.175.180,CN,        CHINANET-SC,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-118.122.103.212,CN,        CHINANET-SC,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-102.135.142.20,ZA,        SessionTelecoms,  +230 4666616,  abusepoc@afrinic.net
-151.229.238.54,GB,        BSKYB-BROADBAND,  +31205354444,  abuse@ripe.net
-93.78.20.184,UA,        VOLIA-DNEPROPETROVSK,  +31205354444,  abuse@ripe.net
-179.167.135.167,BR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-106.47.76.238,CN,        CHINANET-TJ,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-123.240.37.73,TW,        TBCOM-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-172.111.174.34,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-217-651-4225,  admin@pointtoserver.com
-223.74.98.96,CN,        CMNET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-182.241.30.163,CN,        CHINANET-YN,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-185.232.52.60,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-92.223.103.162,LU,        LU-GCORELABS-20071017,  +31205354444,  abuse@ripe.net
-179.80.191.221,BR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-178.142.234.157,DE,        EWETEL-DYNDSL-BKP1,  +31205354444,  abuse@ripe.net
-125.165.106.195,ID,        TLKM_D1_BB_SPEEDY_BTM,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-156.196.39.62,AU,        ERX-NETBLOCK,  +230 4666616,  abusepoc@afrinic.net
-201.219.103.184,AR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-45.172.153.157,DO,        IANA-NETBLOCK-45,  +598-2604-2222,  abuse@lacnic.net
-77.123.100.47,UA,        VOLIA-DNEPROPETROVSK,  +31205354444,  abuse@ripe.net
-77.120.40.95,UA,        VOLIA-LVIV,  +31205354444,  abuse@ripe.net
-111.207.136.227,CN,        UNICOM-BJ,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-45.142.122.175,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-152.89.160.104,AU,        ERX-NETBLOCK,  +31205354444,  abuse@ripe.net
-100.26.135.215,AU,        IANA-BLOCK,n/a,n/a
-45.159.208.72,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-31.7.102.7,IR,        IR-T-10-20110411,  +31205354444,  abuse@ripe.net
-34.204.203.90,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-58.122.6.83,KR,        broadNnet,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-187.94.189.20,BR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-142.93.152.181,AU,        ERX-NETBLOCK,  +1-347-875-6044,  abuse@digitalocean.com
-183.89.78.52,TH,        TTBP-TH,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-46.150.77.66,UA,        TELESVIT-NET1,  +31205354444,  abuse@ripe.net
-185.213.155.177,DE,        NET-31173-185-213-155,  +31205354444,  abuse@ripe.net
-183.196.210.110,CN,        CMNET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-183.14.135.158,CN,        CHINANET-GD,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-35.173.35.155,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-206-266-4064,  abuse@amazonaws.com
-116.48.6.22,HK,        NETVIGATOR,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-13.48.86.50,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-3.235.66.0,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,n/a,n/a
-77.121.70.53,UA,        VOLIA-LUTSK,  +31205354444,  abuse@ripe.net
-183.3.150.178,CN,        CHINANET-GD,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-1.171.52.214,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-104.210.60.82,AU,        IANA-BLOCK,  +1-425-882-8080,  abuse@microsoft.com
-45.172.153.157,DO,        IANA-NETBLOCK-45,  +598-2604-2222,  abuse@lacnic.net
-59.102.186.33,TW,        TBCOM-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-116.48.6.22,HK,        NETVIGATOR,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-220.129.139.182,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-93.78.227.241,UA,        VOLIA-POLTAVA,  +31205354444,  abuse@ripe.net
-45.172.153.157,DO,        IANA-NETBLOCK-45,  +598-2604-2222,  abuse@lacnic.net
-45.172.153.157,DO,        IANA-NETBLOCK-45,  +598-2604-2222,  abuse@lacnic.net
-201.219.103.184,AR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-45.172.153.157,DO,        IANA-NETBLOCK-45,  +598-2604-2222,  abuse@lacnic.net
-201.219.103.184,AR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-45.172.153.157,DO,        IANA-NETBLOCK-45,  +598-2604-2222,  abuse@lacnic.net
-201.219.103.184,AR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-201.219.103.184,AR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-201.219.103.184,AR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-201.219.103.184,AR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-125.165.106.195,ID,        TLKM_D1_BB_SPEEDY_BTM,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-125.165.106.195,ID,        TLKM_D1_BB_SPEEDY_BTM,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-125.165.106.195,ID,        TLKM_D1_BB_SPEEDY_BTM,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-125.165.106.195,ID,        TLKM_D1_BB_SPEEDY_BTM,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-156.196.39.62,AU,        ERX-NETBLOCK,  +230 4666616,  abusepoc@afrinic.net
-190.206.191.41,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-156.196.39.62,AU,        ERX-NETBLOCK,  +230 4666616,  abusepoc@afrinic.net
-156.196.39.62,AU,        ERX-NETBLOCK,  +230 4666616,  abusepoc@afrinic.net
-190.206.191.41,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-156.196.39.62,AU,        ERX-NETBLOCK,  +230 4666616,  abusepoc@afrinic.net
-190.206.191.41,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-156.196.39.62,AU,        ERX-NETBLOCK,  +230 4666616,  abusepoc@afrinic.net
-156.196.39.62,AU,        ERX-NETBLOCK,  +230 4666616,  abusepoc@afrinic.net
-156.196.39.62,AU,        ERX-NETBLOCK,  +230 4666616,  abusepoc@afrinic.net
-190.206.191.41,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-190.206.191.41,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-195.54.32.233,DE,        RUSTELEKOM-20211102,  +31205354444,  abuse@ripe.net
-190.206.191.41,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-195.54.32.233,DE,        RUSTELEKOM-20211102,  +31205354444,  abuse@ripe.net
-190.206.191.41,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-195.54.32.233,DE,        RUSTELEKOM-20211102,  +31205354444,  abuse@ripe.net
-179.80.191.221,BR,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-190.206.191.41,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-190.206.191.41,VE,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +598-2604-2222,  abuse@lacnic.net
-178.142.234.157,DE,        EWETEL-DYNDSL-BKP1,  +31205354444,  abuse@ripe.net
-176.36.43.143,UA,        LANET-REGIONS-NET,  +31205354444,  abuse@ripe.net
-176.36.43.143,UA,        LANET-REGIONS-NET,  +31205354444,  abuse@ripe.net
-195.54.32.233,DE,        RUSTELEKOM-20211102,  +31205354444,  abuse@ripe.net
-97.115.253.180,EU,        NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK,  +1-877-886-6515,  abuse@aup.lumen.com
-45.159.208.72,AU,        IANA-NETBLOCK-45,  +31205354444,  abuse@ripe.net
-1.171.52.214,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-1.171.52.214,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-1.171.52.214,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-1.171.52.214,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
-185.232.52.57,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.58,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.60,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.61,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.57,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.58,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.60,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.61,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.57,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.58,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.60,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.61,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.57,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.58,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.60,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-185.232.52.61,NL,        SC-INTERNET-INC6-20171115,  +31205354444,  abuse@ripe.net
-197.39.170.0,EG,        TEDW-000000,  +230 4666616,  abusepoc@afrinic.net
-1.171.52.214,TW,        HINET-NET,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net
+31.19.53.114,DE,,  +31205354444,  abuse@ripe.net,Vodafone Kabel Deutschland GmbH|Germaniastr. 14-17|12099 Berlin|Germany,
+194.61.233.41,UA|UA,Zubritska Valeriia Nikolaevna,  +31205354444,  abuse@ripe.net,Svetlitskogo str., 35|04123|Kyiv|UKRAINE|Ukraine, Kyiv, Smolens'ka str. 31/33,+38 097 2078379|+380631805589|+380972078379
+59.102.186.33,TW|ZZ|TW|TW|EU,,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net,3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan|3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan|5F., No.44, Sec. 2, Zhongshan North Road, Zhongshan District|Taipei, Taiwan, 104, R.O.C|see http://www.iana.org.,+000000000|+886-3-493-0343|+886-4-3504-0141
+217.79.1.106,RU|RU,"OBIT" Ltd.,  +31205354444,  abuse@ripe.net,Obit Telecommunications Ltd.|Ligovsky pr., 13-15|191014, Russia, St.Petersburg|Ligovsky pr., 13-15|191014, Russia, St.Petersburg|Ligovsky pr., 13-15|191014|ST PETERSBURG|RUSSIAN FEDERATION,+78126220003|+78126220000|+78126220003
+45.83.220.191,AU|ZZ|SE|SE,31173 Services AB,  +31205354444,  abuse@ripe.net,Brisbane, Australia|Brisbane, Australia|see http://www.iana.org.|Scheelegatan 9|21228|Malmo|SWEDEN|31173 Services AB|Scheelegatan 9|SE-212 28 Malmo|Sweden,+000000000|+46406181000|+46406181000
+116.48.6.22,HK|ZZ|EU,,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net,PO Box 9896 GPO|PO Box 9896 GPO|PO Box 9896 GPO|Hong Kong|see http://www.iana.org.,+000000000|+852-2888-2888
+45.135.167.90,AU|ZZ|UA|UA,Zubritska Valeriia Nikolaevna,  +31205354444,  abuse@ripe.net,Brisbane, Australia|Brisbane, Australia|see http://www.iana.org.|Svetlitskogo str., 35|04123|Kyiv|UKRAINE|Ukraine, Kyiv, Smolens'ka str. 31/33,+000000000|+38 097 2078379|+380631805589|+380972078379
+194.61.233.62,UA|UA,Zubritska Valeriia Nikolaevna,  +31205354444,  abuse@ripe.net,Svetlitskogo str., 35|04123|Kyiv|UKRAINE|Ukraine, Kyiv, Smolens'ka str. 31/33,+38 097 2078379|+380631805589|+380972078379
+176.215.104.33,RU,JSC "ER-Telecom Holding" Krasnoyarsk Branch|JSC "ER-Telecom Holding" Krasnoyarsk Branch,  +31205354444,  abuse@ripe.net,Televisornaya str., 1 building 9|660028 Krasnoyarsk|Russian Federation|CJSC "ER-Telecom Holding" Krasnoyarsk branch|Televisornaya str., 1 building 9|660028 Krasnoyarsk|Russian Federation|Televisornaya str., 1 building 9|660028 Krasnoyarsk|Russian Federation,+7 391 215-00-22|+7 391 215-00-22|+7 391 215-00-22
+220.129.139.182,TW|ZZ|TW|TW|TW|TW|EU,,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net,3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan|3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan|CHTD, Chunghwa Telecom Co., Ltd.|No. 21, Sec. 21, Hsin-Yi Rd.,|Taipei Taiwan 100|CHTD, Chunghwa Telecom Co., Ltd.|Data-Bldg. 6F,  No. 21, Sec. 21, Hsin-Yi Rd.,|Taipei Taiwan 100|CHTD, Chunghwa Telecom Co., Ltd.|Data-Bldg. 6F,  No. 21, Sec. 1, Hsin-Yi Rd.,|Taipei Taiwan|see http://www.iana.org.,+000000000|+886 2 2322 3495|+886 2 2322 3442|+886 2 2344 3007|+886 2 2322 3495|+886 2 2322 3442|+886 2 2344 3007|+886-2-2322-3495
+93.78.227.241,UA,,  +31205354444,  abuse@ripe.net,TEODORA DRAIZERA STREET, house 24, FLOOR 2|,+380 44 3649444
+45.82.153.143,AU|ZZ|RU,Voldeta,  +31205354444,  abuse@ripe.net,Brisbane, Australia|Brisbane, Australia|see http://www.iana.org.|Geologu 6-2, Vilnius, Lithuania|Tsvetnoy b-r, d. 26, str. 1, kom. 12|127051 Moscow|Russia,+000000000
+156.96.47.35,AU|EU,,  +1-818-908-8900,  keith@fastlink.net,Brisbane, Australia|see http://www.iana.org.|see http://www.iana.org.,
+194.61.233.64,UA|UA,Zubritska Valeriia Nikolaevna,  +31205354444,  abuse@ripe.net,Svetlitskogo str., 35|04123|Kyiv|UKRAINE|Ukraine, Kyiv, Smolens'ka str. 31/33,+38 097 2078379|+380631805589|+380972078379
+194.61.233.78,UA|UA,Zubritska Valeriia Nikolaevna,  +31205354444,  abuse@ripe.net,Svetlitskogo str., 35|04123|Kyiv|UKRAINE|Ukraine, Kyiv, Smolens'ka str. 31/33,+38 097 2078379|+380631805589|+380972078379
+45.135.167.61,AU|ZZ|UA|UA,Zubritska Valeriia Nikolaevna,  +31205354444,  abuse@ripe.net,Brisbane, Australia|Brisbane, Australia|see http://www.iana.org.|Svetlitskogo str., 35|04123|Kyiv|UKRAINE|Ukraine, Kyiv, Smolens'ka str. 31/33,+000000000|+38 097 2078379|+380631805589|+380972078379
+201.219.103.184,AR|AR|EU,,  +598-2604-2222,  abuse@lacnic.net,Jasón, 1026,|7167 - Pinamar (Buenos Aires) -|Jason, 1026, -|7167 - Pinamar - Buenos Aires|see http://www.iana.org.,+54 2254 492134|+54  2254456531 [0000]
+91.240.118.137,RU|RU,HOSTWAY LLC,  +31205354444,  abuse@ripe.net,Postbus 193|2950 AD|Alblasserdam|NETHERLANDS|Postbus 193|2950 AD|Alblasserdam|NETHERLANDS,+ 7 981 806 88 91|+3197010280958
+190.206.191.41,VE|VE|EU,,  +598-2604-2222,  abuse@lacnic.net,Segunda Avenida de los Palos Grandes, 000, Entre Av. Fr|1060 - Caracas - MI|CANTV COR Los Palos Grandes Chacao Caracas Venezuela, 000, -|1060 - Caracas - MI|see http://www.iana.org.,+58  2095685 [0000]|+58  2122095685 [0000]
+125.165.106.195,ID|ID|ID|ID|EU,,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net,PT. TELKOM INDONESIA|Menara Multimedia Lt. 7|Jl. Kebonsirih No.12|JAKARTA|PT. TELKOM INDONESIA|Menara Multimedia Lt. 7|Jl. Kebonsirih No.12|JAKARTA|see http://www.iana.org.,+62-21-3860500|+62-21-3860500
+156.196.39.62,AU|EU,,  +230 4666616,  abusepoc@afrinic.net,Brisbane, Australia|see http://www.iana.org.|see http://www.iana.org.,
+179.80.191.221,BR|BR|BR|EU,,  +598-2604-2222,  abuse@lacnic.net,see http://www.iana.org.,
+134.255.148.151,AU|RU,,  +31205354444,  abuse@ripe.net,Brisbane, Australia|see http://www.iana.org.|Kulibina str, 2, 307|Ekaterinburg 620137|Russia,+7 343 2784551
+79.173.88.109,RU,,  +31205354444,  abuse@ripe.net,IT-Region Ltd.|19, Chekhova str.|Gatchina, St. Petersburg region, RU,+7(81371)32060|+7(81371)93066
+77.50.107.86,RU,,  +31205354444,  abuse@ripe.net,Russian Federation|Moscow|Bibirevskaya 8k1,+7 (495) 290-3-999
+176.215.104.130,RU,JSC "ER-Telecom Holding" Krasnoyarsk Branch|JSC "ER-Telecom Holding" Krasnoyarsk Branch,  +31205354444,  abuse@ripe.net,Televisornaya str., 1 building 9|660028 Krasnoyarsk|Russian Federation|CJSC "ER-Telecom Holding" Krasnoyarsk branch|Televisornaya str., 1 building 9|660028 Krasnoyarsk|Russian Federation|Televisornaya str., 1 building 9|660028 Krasnoyarsk|Russian Federation,+7 391 215-00-22|+7 391 215-00-22|+7 391 215-00-22
+109.71.11.196,RU|AU,,  +31205354444,  abuse@ripe.net,Russia, Saint-Petersburg, Cvetochnaya st. 21|see http://www.iana.org.,
+92.223.103.162,LU|LU,G-Core Labs S.A.,  +31205354444,  abuse@ripe.net,2A Rue Albert Borschette|1246|Luxembourg|LUXEMBOURG|G-Core Labs S.A.|2A Rue Albert Borschette|1246 Luxembourg,+375293666245|+352-691-045488
+77.223.110.234,RU,,  +31205354444,  abuse@ripe.net,Russia, Saint-Petersburg, Cvetochnaya st. 21,
+77.223.110.236,RU,,  +31205354444,  abuse@ripe.net,Russia, Saint-Petersburg, Cvetochnaya st. 21,
+77.223.110.233,RU,,  +31205354444,  abuse@ripe.net,Russia, Saint-Petersburg, Cvetochnaya st. 21,
+185.232.52.58,NL|SC,WEB_GroupInternet INC,  +31205354444,  abuse@ripe.net,House of Francis, Room 303, IIe Du Port|0000|Mahe|SEYCHELLES|House of Francis, Room 303, IIe, Du Port|00000|Mahe|SEYCHELLES,+19299995787|+19299995787
+1.171.52.214,TW|ZZ|TW|TW|TW|EU,,  +61 7 3858 3188,  search-apnic-not-arin@apnic.net,3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan|3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan|CHTD, Chunghwa Telecom Co., Ltd.|No. 21, Sec. 21, Hsin-Yi Rd.,|Taipei Taiwan 100|CHTD, Chunghwa Telecom Co., Ltd.|Data-Bldg. 6F,  No. 21, Sec. 1, Hsin-Yi Rd.,|Taipei Taiwan|see http://www.iana.org.,+000000000|+886 2 2322 3495|+886 2 2322 3442|+886 2 2344 3007|+886-2-2322-3495
+77.223.110.229,RU,,  +31205354444,  abuse@ripe.net,Russia, Saint-Petersburg, Cvetochnaya st. 21,
+77.223.110.230,RU,,  +31205354444,  abuse@ripe.net,Russia, Saint-Petersburg, Cvetochnaya st. 21,
+5.188.78.116,RU,,  +31205354444,  abuse@ripe.net,Russia, Saint-Petersburg, Cvetochnaya st. 21,
